@@ -1,0 +1,6 @@
+@BEv2_HostAddress = http://localhost:5203
+
+GET {{BEv2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
